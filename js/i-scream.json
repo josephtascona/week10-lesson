@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Blueberry",
+      "calories": 525,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild blueberries",
+        "milk chocolate dip",
+        "sprinkles"
+      ],
+      "image": "blueberry-icecream.jpeg"
+    },
+    {
+      "name": "Razzy Rasberry",
+      "calories": 325,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild rasberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "rasberry-icecream.jpg"
     }
   ]
 }
